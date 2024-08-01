@@ -1,0 +1,5 @@
+blob()The browser has additional high-level objects. Among them is the Blob. The Blob object visualizes a blob that is a file-like object of immutable. The Blob is a raw data: you can read it both as binary data or text. It consists of an optional string type, blobParts, strings, as well as BufferSource.
+==============================================================
+in css
+textarea:valied
+يعن لما يكةن فيها قيمة
